@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+img {
+    border: solid 4px;
+    border-radius: 25%;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.odin-title {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(8, 94, 8);
+}
+
+.back-btn {
+    font-family: "Courier New";
+    font-weight: 700;
+}
